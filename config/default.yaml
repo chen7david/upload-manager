@@ -1,0 +1,10 @@
+server:
+   protocol: 'http'
+   hostname: 'localhost'
+   port: 8000
+
+image:
+    types:
+      - sq 
+      - vr
+      - hr
