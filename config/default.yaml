@@ -3,6 +3,11 @@ server:
    hostname: 'localhost'
    port: 8000
 
+folder:
+   root: static
+   video: video/original
+   image: image/original
+
 image:
     types:
       - sq 
