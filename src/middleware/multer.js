@@ -3,7 +3,7 @@ const p = require('path')
 const fs = require('fs')
 const { folder } = require('config')
 const { md5, dd } = require('koatools')
-const root = path.resolve(__dirname, folder.root)
+const root = p.resolve(__dirname,'./../../', folder.root, folder.image)
 
 dd({root})
 

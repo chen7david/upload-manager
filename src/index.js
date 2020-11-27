@@ -9,7 +9,7 @@ const url = require('url')
 app.use(cors())
 
 
-
+app.use(router.image.routes())
 
 app.listen(server.port, () => {
     console.log(`running at ${url.format(server)}`)
