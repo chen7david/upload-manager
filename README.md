@@ -31,4 +31,4 @@ Upload manager supports the following aspect-ratios:
     - 1280
     - original
 
-upload/image?a=sq&r=300
+upload/image?a=sq&r[]=300&r[]=500&r[]=700
