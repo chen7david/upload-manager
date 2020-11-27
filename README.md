@@ -16,6 +16,7 @@ Upload manager supports the following aspect-ratios:
     - 300
     - 500
     - 700
+    - original
 - (vr):
     - 92
     - 154
@@ -23,6 +24,7 @@ Upload manager supports the following aspect-ratios:
     - 342
     - 500
     - 780
+    - original
 - (hr): 
     - 300
     - 780
