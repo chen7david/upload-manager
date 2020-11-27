@@ -10,14 +10,14 @@ Upload manager supports three aspect-ratios namely:
 ### Image Resolutions
 Upload manager supports the following aspect-ratios:
 (the ratios below are all in pixels)
-- (sq): 
+- sq: 
     - 92
     - 100
     - 300
     - 500
     - 700
     - original
-- (vr):
+- vr:
     - 92
     - 154
     - 185
@@ -25,7 +25,7 @@ Upload manager supports the following aspect-ratios:
     - 500
     - 780
     - original
-- (hr): 
+- hr: 
     - 300
     - 780
     - 1280
